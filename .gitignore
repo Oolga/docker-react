@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+docker-react-user_accessKeys.csv
+id_ssh_github
+id_ssh_github.pub
